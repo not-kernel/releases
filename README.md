@@ -5,4 +5,4 @@ If you are a normal user, download LTS Version **that is the one for the rom & y
 
 # What is not_kernel and what it does?
 
-idk, maybe not-kernel.github.io will help you on this one
+idk, maybe https://not-kernel.github.io will help you on this one
