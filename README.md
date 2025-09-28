@@ -1,8 +1,9 @@
 # Which version do i download?
 
-If you are a normal user, download LTS Version **that is the one for the rom & you are currently using**, if you want a more ~~buggy~~ bleeding edge experience, download the interstellar builds.
+If you are a normal user, download the version from here, if you want a more ~~buggy~~ bleeding edge experience, download the CI builds that are available in telegram.
 
+https://t.me/not_kernelBuilds
 
-# What is not_kernel and what it does?
+Join my group for better support since im not active on xda, sorry :/ (im also not active on telegram too lmao)
 
-idk, maybe https://not-kernel.github.io will help you on this one
+https://t.me/not_Kernel
